@@ -41,7 +41,13 @@ else
                 {
                     try{
                         int num=Integer.parseInt(number.getText().toString());
-                        int index= places.getSelectedItemPosition();
+                        int index= places.getSelectedItemPosition
+
+
+
+
+
+                                ();
                         double cost=0;
                         switch(index)
                         {
