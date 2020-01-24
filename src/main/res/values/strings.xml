@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab 3</string>
+    <string name="titile">Triathalon Registration</string>
+    <string name="subTitile">Number of Athletes On Team   </string>
+    <string name="button">compute cost</string>
+    <string name="heading">PLACES</string>
+
+    <string-array name="item">
+    <item>Lake Placid</item>
+    <item>Big Island Hawaii</item>
+    <item>Miami</item>
+</string-array>
+</resources>
